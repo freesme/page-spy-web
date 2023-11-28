@@ -26,6 +26,10 @@
 
 为了数据安全和方便您的使用，我们提供完整的、开箱即用的部署方案。
 
+### Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHuolalaTech%2Fpage-spy-web&project-name=page-spy-web&repository-name=page-spy-web)
+
 ### Docker 部署 👍
 
 ```bash
