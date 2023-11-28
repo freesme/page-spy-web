@@ -95,6 +95,6 @@
     ]
   },
   "optionalDependencies": {
-    "@huolala-tech/page-spy-api": "^1.2.2"
+    "@huolala-tech/page-spy-api": "^1.4.2"
   }
 }
