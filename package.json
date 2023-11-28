@@ -8,7 +8,7 @@
     "postinstall": "bash scripts/public-files.sh",
     "start:doc": "vite --mode doc",
     "start:client": "vite --mode client",
-    "start": "concurrently \"yarn start:client\" \"yarn start:server\"",
+    "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
     "start:server": "page-spy-api",
     "build:doc": "vite build --mode doc",
     "build:client": "vite build --mode client",
