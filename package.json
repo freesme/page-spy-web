@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "postinstall": "bash scripts/public-files.sh",
-    "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
+    "start": "vite --mode client",
     "start:doc": "vite --mode doc",
     "start:client": "vite --mode client",
     "start:server": "page-spy-api",
