@@ -10,6 +10,7 @@
     "start:client": "vite --mode client",
     "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
     "start:server": "page-spy-api",
+    "build": "vite build --mode client",
     "build:doc": "vite build --mode doc",
     "build:client": "vite build --mode client",
     "preview": "vite preview",
